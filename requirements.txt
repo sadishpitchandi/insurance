@@ -1,5 +1,11 @@
-numpy
-Flask
+flask
 gunicorn
-sklearn
 pandas
+numpy
+sklearn
+PyYAML
+matplotlib
+evidently
+dill
+boto3
+-e .
