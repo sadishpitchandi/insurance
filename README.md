@@ -51,7 +51,8 @@ Model evaluation is important to assess the efficacy of a model during initial r
 6. Model Deployement
 Deployment is the method by which we integrate a machine learning model into production environment to make practical business decisions based on data.
 
-![code-writing-flow](https://user-images.githubusercontent.com/95518504/183598407-55f2ae01-4c75-4ef1-8490-4a482591c4bd.png)
+
+![project](https://user-images.githubusercontent.com/95518504/183598756-9fdaf666-2b48-4a5b-bb3e-1c13072dccfb.png)
 
 
 
