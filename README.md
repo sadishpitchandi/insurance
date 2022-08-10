@@ -2,6 +2,9 @@
 this Ml project that related to the insurance prediction
 
 
+URL =  https://shaliniinsurance.herokuapp.com/
+
+
 
 
 Insurance Premium Prediction
